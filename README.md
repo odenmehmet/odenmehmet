@@ -1,12 +1,13 @@
-![MasterHead](93a967afbff6ff0f0fcab75e727241c4)
+<img align="center" alt="coding" width="2200" height="600" src="998e055aba57c24138220937cc5166ab.gif">
 <h1 align="center">Hi 👋, I'm Mehmet Öden</h1>
+<img align="right" alt="coding" width="250" src="928b67167291489.64264940ecfd8.gif">
 - 🔭 I’m currently working on **Üretken Akademi**
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **odenmehmet70@gmail.com**
 
-- ⚡ Fun fact **I'm trying to improve my software skills**
+- ⚡ Fun fact **I'm trying to improve my software skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
