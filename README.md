@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
+![MasterHead](93a967afbff6ff0f0fcab75e727241c4)
 <h1 align="center">Hi 👋, I'm Mehmet Öden</h1>
 - 🔭 I’m currently working on **Üretken Akademi**
 
